@@ -6,16 +6,20 @@ Here is a guide to navigate through each sub-folder:
 
 
 
-  "data": Stores all data used in the project. The "raw data" subfolder contains Excel/csv sheets with raw data used as imports in R. 
+  "data": Stores all data used in the project. 
+  
+                The "raw data" subfolder contains Excel/csv sheets with raw data used as imports in R. 
           
   "documents": Stores all written documents that were later compiled to create the final technical report. 
+
                The "articles" subfolder contains all articles that were referenced in the report. 
                The "drafts" subfolder contains all written drafts of various portions of the report.
                The "protocols" subfolder contains all protocol and proposal drafts of the report.
                The "slideshows" subfolder contains pdfs of the slideshows presented to each participant in the study, as well as links to the   
                Google Slides presentations themselves.
 
-  "results": Stores all output from R scripts, including tables, plots, figures, and output pdfs. 
+  "results": Stores all output from R scripts, including tables, plots, figures, and output pdfs.   
+  
                The "figures" folder contains all figures, like tables and plots, derived from the R script.
                The "output" folder contains pdfs of all relevant output necessary for statistical analysis.
 
