@@ -1,6 +1,5 @@
 # STAT 365 Technical Report 
 Welcome! This repository contains all files (code, figures, datasets, written documents) for my technical report.
-All content can be found within the root "project" folder.
 
 
 Here is a guide to navigate through each sub-folder:
