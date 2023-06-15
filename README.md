@@ -2,7 +2,10 @@
 Welcome! This repository contains all files (code, figures, datasets, written documents) for my technical report.
 All content can be found within the root "project" folder.
 
+
 Here is a guide to navigate through each sub-folder:
+
+
 
   "data": Stores all data used in the project. The "raw data" subfolder contains Excel/csv sheets with raw data used as imports in R. 
           
@@ -16,3 +19,6 @@ Here is a guide to navigate through each sub-folder:
                The "output" folder contains pdfs of all relevant output necessary for statistical analysis.
 
   "scripts": Stores all coding scripts. 
+
+
+
