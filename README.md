@@ -12,6 +12,8 @@ Here is a guide to navigate through each sub-folder:
                The "articles" subfolder contains all articles that were referenced in the report. 
                The "drafts" subfolder contains all written drafts of various portions of the report.
                The "protocols" subfolder contains all protocol and proposal drafts of the report.
+               The "slideshows" subfolder contains pdfs of the slideshows presented to each participant in the study, as well as links to the   
+               Google Slides presentations themselves.
 
   "results": Stores all output from R scripts, including tables, plots, figures, and output pdfs. 
                The "figures" folder contains all figures, like tables and plots, derived from the R script.
