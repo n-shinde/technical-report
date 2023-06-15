@@ -1,0 +1,7 @@
+Note that the raw data from the Google Form responses contains 2 responses that are erroneously marked "Video."
+
+The first draft of the Google Form accidentally labels the "Audio Clip" treatment group as "Video", which was realized after
+administering the experiment to the first 2 participants.
+
+So 2 responses are marked "Video." Those responses were manually changed to the correct group, "Audio Clip" within the Excel file 
+in the raw data subfolder.
